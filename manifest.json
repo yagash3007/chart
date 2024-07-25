@@ -1,0 +1,17 @@
+{
+  "name": "ChartTest",
+  "version": "1.0.0",
+  "size": {
+    "width": 1,
+    "height": 1
+  },
+  "mapping": [
+    {
+      "dataSetId": "da6a338d-b64a-40e1-bed0-5964b12ec68e",
+      "alias": "TestData",
+      "fields": []
+    }
+  ],
+  "fileName": "manifest.json",
+  "id": "757aafbf-e9d7-4d69-94cd-2b853f7b0a99"
+}
